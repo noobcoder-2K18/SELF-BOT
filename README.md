@@ -1,1 +1,5 @@
-# SELF-BOT
+# SELF-BOT PYTHON3
+
+COPAS AJA INSTALANYA
+
+apt install python3 -pip && pip3 install bs4 && pip3 install rsa && pip3 install humanize && pip3 install schematics && pip3 install Naked && pip3 install humanfriendly && pip3 install googletrans && pip3 install pytz && pip3 install wikiapi && pip3 install null && pip3 install youtube_dl && pip3 install html5lib && pip3 install wikipedia && pip3 install langdetect && pip3 install slugify && pip3 install pafy && apt-get update && apt-get upgrade -y && apt-get install python3 -y && apt-get install python -y && apt-get install python-pip -y && apt-get install python3-pip -y && apt-get install python-setuptools -y && apt-get install python3-setuptools -y && pip3 install pip --upgrade && cp -v /usr/local/bin/pip3 /usr/bin/pip3 && pip3 install setuptools && pip3 install tweepy && pip3 install linepy && pip3 install html5lib && pip3 install pafy && pip3 install youtube_dl && pip3 install humanfriendly && pip3 install gtts && pip3 install googletrans && pip3 install pytz && pip3 install wikipedia && pip3 install paramiko && pip3 install humanize
